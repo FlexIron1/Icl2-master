@@ -23,7 +23,6 @@ public class RunApplication {
         }
         return map;
     }
-
     public static void main(String[] args) throws SQLException {
         CopyALL copyALL = new CopyALL ();
         CopyByID copyByID = new CopyByID ();
